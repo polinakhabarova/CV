@@ -17,6 +17,8 @@ E-mail: khabarova-polina@bk.ru
 
 <b>Дополнительное образование</b>: онлайн-курс для экономистов на знание системы КонсультантПлюс.
 
+https://github.com/polinakhabarova/CV/blob/6f79dfa4eb687854ec75b6b6661547a319abcbb0/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.PNG
+
 <b>Ключевые навыки</b>:
 * Опытный пользователь ПК, Word, Exel, Powerpoint.
 * Базовые навыки в программе 1:С
